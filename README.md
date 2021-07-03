@@ -1,6 +1,6 @@
 # Learning log
 <div align=center margin= auto> 
-  <img src="img.PNG"  width=80%>
+  <img src="img.PNG"  width=100%>
 </div>
 
 # Learning log
